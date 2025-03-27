@@ -44,7 +44,7 @@ This script trains a **CNN** on the MNIST dataset and saves the model (`mnist.h5
 
 #### **Run the Training Script:**
 ```bash
-python program.py
+python train_model.py
 ```
 
 ---
@@ -59,7 +59,7 @@ This script provides a graphical interface where users can draw a digit, and the
 
 #### **Run the GUI Application:**
 ```bash
-python practiceground.py
+python main.py
 ```
 
 ---
